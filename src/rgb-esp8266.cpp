@@ -3,6 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include "credentials.h"
+#include "packet.h"
 
 WiFiUDP udp;
 char udpbuf[256];
