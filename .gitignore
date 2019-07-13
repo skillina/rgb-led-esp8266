@@ -1,0 +1,5 @@
+credentials.h
+.*
+!.gitignore
+spec.d
+Release
